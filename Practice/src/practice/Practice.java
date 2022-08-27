@@ -19,7 +19,7 @@ public class Practice {
         System.out.println("UPDATE GIT");
         
         
-        System.out.println("NEW LINES");
+ 
     }
     
 }
